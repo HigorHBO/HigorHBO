@@ -14,21 +14,6 @@
 
 ---
 
-### 📚 Jornada Acadêmica & Disciplinas Concluídas
-
-<div align="center">
-
-| Semestre | Disciplina | Foco / Tecnologias |
-| :--- | :--- | :--- |
-| **1º Semestre** | **Algoritmos e Lógica de Programação** | Lógica computacional, estruturas condicionais, laços de repetição e manipulação de memória em **Linguagem C** |
-| **2º Semestre** | **Banco de Dados** | Modelagem relacional (DER/MER), DDL, DML, consultas SQL e integridade de dados com **MySQL** |
-| **2º Semestre** | **Desenvolvimento Web Básico** | Estruturação semântica, estilização e layouts responsivos com **HTML5, CSS3 & Bootstrap** |
-| **3º Semestre** | **Em Andamento** | Engenharia de Software, Programação Orientada a Objetos (POO) e Arquitetura de Sistemas |
-
-</div>
-
----
-
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
