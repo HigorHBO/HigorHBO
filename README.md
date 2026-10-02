@@ -1,14 +1,7 @@
 # Olá, eu sou o Higor Bueno! 👋
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=200&section=header&text=Higor%20Bueno&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
-</div>
-
-<div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Estudante+de+ADS+-+3%C2%BA+Semestre;Explorando+C%2C+MySQL%2C+Web+e+mais...;Em+busca+da+primeira+oportunidade!)](https://git.io/typing-svg)
-
-</div>
+> 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (3º Semestre - Universidade Positivo)  
+> 💡 Focado em **C, Banco de Dados (MySQL) e Desenvolvimento Web (HTML, CSS & Bootstrap)**
 
 ---
 
