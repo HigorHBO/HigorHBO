@@ -7,9 +7,9 @@
 ### 🚀 Sobre Mim
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas (ADS)** — *3º Semestre* (Universidade Positivo)
-- 💡 Focado em construir uma base sólida em **Lógica de Programação, Estruturas de Dados, Banco de Dados e Desenvolvimento Web**
-- 🎯 Objetivo: Desenvolver projetos práticos, aprimorar boas práticas de código e ingressar no mercado de tecnologia através de estágio/júnior
-- 📍 Curitiba/Brasil
+- 💼 Experiência profissional como **Gerente no ramo automotivo (oficina mecânica)**, atuando com gestão de processos, liderança de equipe, resolução de problemas e foco em resultados
+- 💡 Em transição/evolução contínua, unindo a visão de negócios e liderança ao aprendizado em **desenvolvimento de software e tecnologia**
+- 📍 **Londrina - Paraná, Brasil**
 
 ---
 
