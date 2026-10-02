@@ -1,7 +1,6 @@
 # Olá, eu sou o Higor Bueno! 👋
 
-> 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (3º Semestre - Universidade Positivo)  
-> 💡 Focado em **C, Banco de Dados (MySQL) e Desenvolvimento Web (HTML, CSS & Bootstrap)**
+> 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (3º Semestre - Universidade Positivo)
 
 ---
 
